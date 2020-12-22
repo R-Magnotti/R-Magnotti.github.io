@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## HAICOR (Human-AI Co-Reasoning) Project
+Humans are inherently skilled at commonsense and practical reasoning, so why aren't machines? Without the help of outside knowledge and machine learning techniques to help them put the information together, machines cannot currently manage this process well. My group at the University of Rochester working on the HAICOR project has set up a system to allow machines to interact with humans and learn from them how to perform practical reasoning.
 
-You can use the [editor on GitHub](https://github.com/R-Magnotti/R-Magnotti.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="https://github.com/R-Magnotti/HAICOR">Our previous work</a>
+<a href="">Our current work</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
