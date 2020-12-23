@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <td align="left">
-        ℹ️ My Info ℹ️
+        ℹ️ About Me ℹ️
       </td>
     </tr>
   </thead>
