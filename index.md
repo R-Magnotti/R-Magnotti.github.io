@@ -12,7 +12,7 @@
       <td>
         <ul>
           <p>As a Master's in Computer Science student at University of Rochester, I am conducting research broadly in the areas of Human-Computer Interaction (HCI) and AI. Specifically, I am exploring multi-step automatic commonsense reasoning of AI systems using a human-in-the-loop framework and knowledge-aware graphs.</p>
-           <p>I am currently applying to PhD programs in Copmuter Science for Fall 2021 to engage in meaningful research involving AI commonsense reasoning, embodied agents, and explainable AI.</p>
+           <p>I'm currently applying to PhD programs in Copmuter Science for Fall 2021 to engage in meaningful research involving AI commonsense reasoning, embodied agents, and explainable AI.</p>
         </ul>
       </td>
     </tr>
