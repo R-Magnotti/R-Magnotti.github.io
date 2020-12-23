@@ -2,7 +2,7 @@
   <thead>
     <tr>
       <td align="left">
-        :information_source: My Information
+        My Information
       </td>
     </tr>
   </thead>
