@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-name: My name is
 title: Richard Magnotti
-description: and I make machines that think like people
-email: rmagnott@ur.rochester.edu
+description: I make machines that think like people
+<a href="mailto:rmagnott@ur.rochester.edu">contact me</a>
