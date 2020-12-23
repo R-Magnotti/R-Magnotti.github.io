@@ -1,3 +1,5 @@
+As a Master's in Computer Science student at University of Rochester, I am conducting research broadly in the areas of Human-Computer Interaction (HCI) and AI. Specifically, I am exploring multi-step automatic commonsense reasoning of AI systems using a human-in-the-loop framework and knowledge-aware graphs. I am currently applying to PhD programs in Copmuter Science for Fall 2021 to engage in meaningful research involving AI commonsense reasoning, embodied agents, and explainable AI. 
+
 # **HAICOR (Human-AI Co-Reasoning) Project**
 ### Humans are inherently skilled at commonsense and practical reasoning, so why aren't machines? 
 Without the help of outside knowledge and machine learning techniques to help them put the information together, machines cannot currently manage this process well. My group at the University of Rochester working on the HAICOR project has set up a system to allow machines to interact with humans and learn from them how to perform practical reasoning.
