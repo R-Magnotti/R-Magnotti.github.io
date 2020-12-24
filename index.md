@@ -25,6 +25,8 @@
 ### Humans are inherently skilled at commonsense and practical reasoning, so why aren't machines? 
 Without the help of outside knowledge and machine learning techniques to help them put the information together, machines cannot currently manage this process well. My team at the University of Rochester is working on the HAICOR project has set up a system to allow machines to interact with humans and learn from them how to perform practical reasoning.
 
+![Alt text](/HAICOR_demo.gif?raw=true "Demonstration of signing up and logging in")
+
 <a href="https://github.com/R-Magnotti/HAICOR">Check out the project</a>
 
 # **Jobster**
