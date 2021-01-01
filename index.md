@@ -18,7 +18,7 @@
   </tbody>
 </table>
 
-<a href="https://github.com/R-Magnotti">My GitHub</a>
+<a href="https://github.com/R-Magnotti">my GitHub</a>
 
 [contact me](mailto:rmagnott@ur.rochester.edu)
 
