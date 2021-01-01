@@ -6,7 +6,6 @@
       </td>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td>
@@ -18,6 +17,8 @@
     </tr>
   </tbody>
 </table>
+
+<a href="https://github.com/R-Magnotti">My GitHub</a>
 
 [contact me](mailto:rmagnott@ur.rochester.edu)
 
