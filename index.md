@@ -26,6 +26,7 @@
 As conversational agents become sophisticated, they are becoming more prevalent in the daily lives of people. They have the ability to help users accomplish daily tasks and help in their day-to-day lives. In this project my team and I researched the effects of implementing discourse structures on a dialogue system's ability to communicate in situated referential collaborative tasks.
 
 <a href="https://www.amazon.science/alexa-prize/teams/diwbot-taskbot-challenge-2">See the team.</a>
+
 <a href="[https://www.amazon.science/alexa-prize/teams/diwbot-taskbot-challenge-2](https://www.amazon.science/alexa-prize/proceedings/diwbot-a-cooking-and-diy-conversation-guidance-system)">Check out the project.</a>
 
 # **HAICOR (Human-AI Co-Reasoning) Project**
