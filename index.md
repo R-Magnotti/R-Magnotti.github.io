@@ -23,13 +23,10 @@
 
 # **Amazon Alexa Prize TaskBot Challenge 2**
 ### To enable more natural dialogue in collaborative communication using Amazon Alexa.
-As conversational agents become sophisticated, they are becoming more prevalent
-in the daily lives of people. They have the ability to help users accomplish daily
-tasks and help in their day-to-day lives.
+As conversational agents become sophisticated, they are becoming more prevalent in the daily lives of people. They have the ability to help users accomplish daily tasks and help in their day-to-day lives. In this project my team and I researched the effects of implementing discourse structures on a dialogue system's ability to communicate in situated referential collaborative tasks.
 
-![Alt text](/HAICOR_Demo.gif?raw=true "Demonstration of signing up and logging in")
-
-<a href="https://github.com/R-Magnotti/HAICOR">Check out the project</a>
+<a href="https://www.amazon.science/alexa-prize/teams/diwbot-taskbot-challenge-2">See the team.</a>
+<a href="[https://www.amazon.science/alexa-prize/teams/diwbot-taskbot-challenge-2](https://www.amazon.science/alexa-prize/proceedings/diwbot-a-cooking-and-diy-conversation-guidance-system)">Check out the project.</a>
 
 # **HAICOR (Human-AI Co-Reasoning) Project**
 ### Humans are inherently skilled at commonsense and practical reasoning, so why aren't machines? 
