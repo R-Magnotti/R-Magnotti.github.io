@@ -10,8 +10,7 @@
     <tr>
       <td>
         <ul>
-          <p>As a Master's in Computer Science student at the University of Rochester, I am conducting research broadly in the areas of Human-Computer Interaction (HCI) and AI. Specifically, I am exploring multi-step automatic commonsense reasoning of AI systems using a human-in-the-loop framework and knowledge-aware graphs.</p>
-           <p>I'm currently applying to PhD programs in Copmuter Science for Fall 2021 to engage in meaningful research involving AI commonsense reasoning, embodied agents, and explainable AI.</p>
+          <p>I am a third year PhD student in Computer Science at Rutgers University. My research is in natural language processing, planning and plan recognition in multi-modal conversational systems and speech-enabled robotic systems. Specifically I am interested in creating socially cognizant conversational agents that can make context-aware decisions to establish common ground.</p>
         </ul>
       </td>
     </tr>
@@ -20,7 +19,7 @@
 
 <a href="https://github.com/R-Magnotti">my GitHub</a>
 
-[contact me](mailto:rmagnott@ur.rochester.edu)
+[contact me](mailto:richard.magnotti@rutgers.edu)
 
 # **HAICOR (Human-AI Co-Reasoning) Project**
 ### Humans are inherently skilled at commonsense and practical reasoning, so why aren't machines? 
