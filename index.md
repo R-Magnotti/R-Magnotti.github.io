@@ -19,9 +19,9 @@
 
 [Contact me](mailto:richard.magnotti@rutgers.edu)
 
-[View resume](Magnotti_Resume.pdf)
+[View my resume](Magnotti_Resume.pdf)
 
-<a href="https://github.com/R-Magnotti">Checkout my gitHub</a>
+<a href="https://github.com/R-Magnotti">Check out my gitHub</a>
 
 # **Amazon Alexa Prize TaskBot Challenge 2**
 ### To enable more natural dialogue in collaborative communication using Amazon Alexa.
