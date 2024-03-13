@@ -21,7 +21,7 @@
 
 [View my resume](Magnotti_Resume.pdf)
 
-<a href="https://github.com/R-Magnotti">Check out my gitHub</a>
+<a href="https://github.com/R-Magnotti">Check out my GitHub</a>
 
 # **Amazon Alexa Prize TaskBot Challenge 2**
 ### To enable more natural dialogue in collaborative communication using Amazon Alexa.
