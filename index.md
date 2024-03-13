@@ -17,11 +17,11 @@
   </tbody>
 </table>
 
-[Contact Me](mailto:richard.magnotti@rutgers.edu)
+[Contact me](mailto:richard.magnotti@rutgers.edu)
 
-[View Resume](Magnotti_Resume.pdf)
+[View resume](Magnotti_Resume.pdf)
 
-<a href="https://github.com/R-Magnotti">Checkout My GitHub</a>
+<a href="https://github.com/R-Magnotti">Checkout my gitHub</a>
 
 # **Amazon Alexa Prize TaskBot Challenge 2**
 ### To enable more natural dialogue in collaborative communication using Amazon Alexa.
