@@ -18,7 +18,9 @@
 </table>
 
 [contact me](mailto:richard.magnotti@rutgers.edu)
-[Download Resume](Magnotti_Resume.pdf)
+
+[View Resume](Magnotti_Resume.pdf)
+
 <a href="https://github.com/R-Magnotti">my GitHub</a>
 
 # **Amazon Alexa Prize TaskBot Challenge 2**
