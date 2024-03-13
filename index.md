@@ -17,9 +17,9 @@
   </tbody>
 </table>
 
-<a href="https://github.com/R-Magnotti">my GitHub</a>
-
 [contact me](mailto:richard.magnotti@rutgers.edu)
+[Download Resume](Magnotti_Resume.pdf)
+<a href="https://github.com/R-Magnotti">my GitHub</a>
 
 # **Amazon Alexa Prize TaskBot Challenge 2**
 ### To enable more natural dialogue in collaborative communication using Amazon Alexa.
