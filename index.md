@@ -23,11 +23,12 @@
 
 <a href="https://github.com/R-Magnotti">Check out my GitHub</a>
 
-# **Conversational Engine for a Training Simulation**
+# **Conversational Engine for Teacher Training**
 ### To improve classroom management training for K-12 teachers using an interactive conversational AI simulation.
 This project features a conversational agent that simulates challenging classroom scenarios, allowing teaching professionals to practice management skills in a realistic, low-stakes environment. The core of this work is the scalable, general-purpose conversational AI backend I developed, which is designed to support different interaction modalities for research into dialogue system effectiveness.
 
-<a href="classroom_sim_project.html">Check out the project<https://www.google.com/search?q=/a>
+<!-- <a href="https://github.com/dg1013/RnDChatWorkv0.git"></a> -->
+Project link coming soon!!
 
 <hr>
 
