@@ -10,7 +10,7 @@
     <tr>
       <td>
         <ul>
-          <p>I am a third year PhD student in Computer Science at Rutgers University. My research is in natural language processing, planning and plan recognition in multi-modal conversational systems and speech-enabled robotic systems. Specifically I am interested in creating socially cognizant conversational agents that can make context-aware decisions to establish common ground.</p>
+          <p>My research lies at the intersection of computational linguistics, natural language processing, and human-robot interaction, with a core interest in creating 'socially-aware' conversational agents. As a fifth-year PhD student at Rutgers University, I am interested in building speech-enabled, multi-modal systems that can infer user plans and make context-aware decisions. Recently, I have focused on the challenges and limitations of using deep learning for natural language instruction-following tasks.</p>
         </ul>
       </td>
     </tr>
@@ -22,6 +22,14 @@
 [View my resume](Magnotti_Resume.pdf)
 
 <a href="https://github.com/R-Magnotti">Check out my GitHub</a>
+
+# **Conversational Engine for a Training Simulation**
+### To improve classroom management training for K-12 teachers using an interactive conversational AI simulation.
+This project features a conversational agent that simulates challenging classroom scenarios, allowing teaching professionals to practice management skills in a realistic, low-stakes environment. The core of this work is the scalable, general-purpose conversational AI backend I developed, which is designed to support different interaction modalities for research into dialogue system effectiveness.
+
+<a href="classroom_sim_project.html">Check out the project<https://www.google.com/search?q=/a>
+
+<hr>
 
 # **Amazon Alexa Prize TaskBot Challenge 2**
 ### To enable more natural dialogue in collaborative communication using Amazon Alexa.
