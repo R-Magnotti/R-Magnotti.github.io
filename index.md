@@ -19,7 +19,7 @@
 
 [Contact me](mailto:richard.magnotti@rutgers.edu)
 
-[View my resume](Magnotti_Resume.pdf)
+[View my resume](Magnotti_SWE_Resume.pdf)
 
 <a href="https://github.com/R-Magnotti">Check out my GitHub</a>
 
