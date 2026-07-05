@@ -17,7 +17,7 @@
   </tbody>
 </table>
 
-[Contact me](mailto:richard.magnotti@rutgers.edu)
+[Contact me](mailto:thetonemachine@gmail.com)
 
 [View my resume](Magnotti_SWE_Resume.pdf)
 
